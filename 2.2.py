@@ -8,3 +8,4 @@ elif x1 != x2 or y1 != y2:
         print('NO')
 if not (1 <= x1 <= 8 and 1 <= y1 <= 8 and 1 <= x2 <= 8 and 1 <= y2 <= 8):
     print('Введите верное значение')
+print ('Ветка изменена')
